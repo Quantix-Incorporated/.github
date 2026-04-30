@@ -4,11 +4,11 @@
 <br /><br /><br />
 
 
-<h1>
-  <p align="center", size="30px">
-    <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteamcard.png" width="93%">
-  </p>
-</h1>
+
+<p align="center", size="30px">
+  <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteamcard.png" width="93.5%">
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/IMG_20240921_163433.jpg" width="23%" />
