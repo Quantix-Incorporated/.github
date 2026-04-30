@@ -1,10 +1,7 @@
  ![Quantix Incorporated](https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/quantix-incorporated-rounded.png)
-
-
-<br /><br /><br />
-
-
-
+<p align="center", size="30px">
+ <img src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/ad5fbd52e7991eef6c7aebb8114978d17cb6f75b/neural_work-svg.svg" width="100%">
+</p>
 <p align="center", size="30px">
   <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteam-card-rounded.png" width="93.5%">
 </p>
