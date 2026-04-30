@@ -1,47 +1,44 @@
 <svg width="800" height="900" viewBox="0 0 800 900" xmlns="http://www.w3.org/2000/svg">
   
   <!-- CENTER THREAD -->
-  <!-- stroke-width defines the thickness of the line (currently a thin 3) -->
-  <line x1="400" y1="150" x2="400" y2="750" stroke="#9333ea" stroke-width="3" />
+  <line x1="400" y1="150" x2="400" y2="750" stroke="#9333ea" stroke-width="2" />
 
   <!-- TOP BRANCHES -->
-  <path d="M 400 150 C 400 100, 350 80, 250 50" fill="none" stroke="#9333ea" stroke-width="3" />
-  <path d="M 400 150 C 400 100, 380 80, 320 50" fill="none" stroke="#9333ea" stroke-width="3" />
-  <path d="M 400 150 C 400 100, 420 80, 480 50" fill="none" stroke="#9333ea" stroke-width="3" />
-  <path d="M 400 150 C 400 100, 450 80, 550 50" fill="none" stroke="#9333ea" stroke-width="3" />
+  <path d="M 400 150 C 400 100, 350 80, 250 50" fill="none" stroke="#9333ea" stroke-width="2" />
+  <path d="M 400 150 C 400 100, 380 80, 320 50" fill="none" stroke="#9333ea" stroke-width="2" />
+  <path d="M 400 150 C 400 100, 420 80, 480 50" fill="none" stroke="#9333ea" stroke-width="2" />
+  <path d="M 400 150 C 400 100, 450 80, 550 50" fill="none" stroke="#9333ea" stroke-width="2" />
 
   <!-- BOTTOM BRANCHES -->
-  <path d="M 400 750 C 400 800, 350 820, 250 850" fill="none" stroke="#9333ea" stroke-width="3" />
-  <path d="M 400 750 L 400 850" fill="none" stroke="#9333ea" stroke-width="3" />
-  <path d="M 400 750 C 400 800, 450 820, 550 850" fill="none" stroke="#9333ea" stroke-width="3" />
+  <path d="M 400 750 C 400 800, 350 820, 250 850" fill="none" stroke="#9333ea" stroke-width="2" />
+  <path d="M 400 750 L 400 850" fill="none" stroke="#9333ea" stroke-width="2" />
+  <path d="M 400 750 C 400 800, 450 820, 550 850" fill="none" stroke="#9333ea" stroke-width="2" />
 
   <!-- SECTION 1: Who we are (Right side) -->
-  <circle cx="400" cy="250" r="7" fill="#9333ea"/>
-  <path d="M 400 250 L 430 250" fill="none" stroke="#9333ea" stroke-width="3" />
+  <circle cx="400" cy="250" r="5" fill="#9333ea"/>
+  <path d="M 400 250 L 430 250" fill="none" stroke="#9333ea" stroke-width="2" />
   
-  <text x="445" y="257" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea">Who we are</text>
-  <!-- These are the text lines. Change the 'fill' color if you want it darker/lighter -->
-  <text x="445" y="285" font-family="sans-serif" font-size="16" fill="#888888">We are a modern software development team.</text>
-  <text x="445" y="307" font-family="sans-serif" font-size="16" fill="#888888">Our passion is building sustainable and</text>
-  <text x="445" y="329" font-family="sans-serif" font-size="16" fill="#888888">highly scalable logistics solutions.</text>
+  <text x="445" y="257" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea">Our Team</text>
+  <text x="445" y="285" font-family="sans-serif" font-size="16" fill="#888888">We are a collaborative group of developers</text>
+  <text x="445" y="307" font-family="sans-serif" font-size="16" fill="#888888">driven by curiosity and clean architecture.</text>
+  <text x="445" y="329" font-family="sans-serif" font-size="16" fill="#888888">We take our work seriously, but not ourselves.</text>
 
   <!-- SECTION 2: Our mission (Left side) -->
-  <circle cx="400" cy="500" r="7" fill="#9333ea"/>
-  <path d="M 400 500 L 370 500" fill="none" stroke="#9333ea" stroke-width="3" />
+  <circle cx="400" cy="500" r="5" fill="#9333ea"/>
+  <path d="M 400 500 L 370 500" fill="none" stroke="#9333ea" stroke-width="2" />
   
-  <!-- text-anchor="end" aligns the text to the right edge so it flows backwards from the line -->
-  <text x="355" y="507" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea" text-anchor="end">Our mission</text>
-  <text x="355" y="535" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">Our goal is to streamline supply chains</text>
-  <text x="355" y="557" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">and make drivers' daily lives easier with</text>
-  <text x="355" y="579" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">clear interfaces and smart data.</text>
+  <text x="355" y="507" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea" text-anchor="end">The Mission</text>
+  <text x="355" y="535" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">To build smart, scalable logistics solutions</text>
+  <text x="355" y="557" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">while fostering a culture of continuous</text>
+  <text x="355" y="579" font-family="sans-serif" font-size="16" fill="#888888" text-anchor="end">growth, mentorship, and shared knowledge.</text>
 
   <!-- SECTION 3: Work ethic (Right side) -->
-  <circle cx="400" cy="700" r="7" fill="#9333ea"/>
-  <path d="M 400 700 L 430 700" fill="none" stroke="#9333ea" stroke-width="3" />
+  <circle cx="400" cy="700" r="5" fill="#9333ea"/>
+  <path d="M 400 700 L 430 700" fill="none" stroke="#9333ea" stroke-width="2" />
   
-  <text x="445" y="707" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea">Work ethic</text>
-  <text x="445" y="735" font-family="sans-serif" font-size="16" fill="#888888">We adhere to Clean Code principles,</text>
-  <text x="445" y="757" font-family="sans-serif" font-size="16" fill="#888888">radical transparency, and continuous learning.</text>
-  <text x="445" y="779" font-family="sans-serif" font-size="16" fill="#888888">Customer focus is at the heart of everything.</text>
+  <text x="445" y="707" font-family="sans-serif" font-weight="bold" font-style="italic" font-size="24" fill="#9333ea">How We Work</text>
+  <text x="445" y="735" font-family="sans-serif" font-size="16" fill="#888888">We believe in writing maintainable code,</text>
+  <text x="445" y="757" font-family="sans-serif" font-size="16" fill="#888888">embracing new technologies, and always</text>
+  <text x="445" y="779" font-family="sans-serif" font-size="16" fill="#888888">leaving the codebase better than we found it.</text>
 
 </svg>
