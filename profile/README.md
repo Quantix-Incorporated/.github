@@ -6,7 +6,7 @@
 
 
 <p align="center", size="30px">
-  <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteamcard.png" width="93.5%">
+  <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteam-card-rounded.png" width="93.5%">
 </p>
 
 
@@ -23,3 +23,7 @@
   <img alt="TEEMU POUTANEN" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/tp-namecard.png" width="23%" />
   <img alt="SATVIK VELPULA" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/sv-namecard.png" width="23%" />
 </p> 
+
+<p align="center", size="30px">
+  <img src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteam-card-rounded_end.png" width="93.5%">
+</p>
