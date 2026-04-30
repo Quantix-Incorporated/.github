@@ -6,7 +6,7 @@
 
 <h1>
   <p align="center", size="30px">
-    Our Team
+    <img alt="The Team" src="https://raw.githubusercontent.com/Quantix-Incorporated/.github/refs/heads/main/theteamcard.png" width="93%">
   </p>
 </h1>
 
